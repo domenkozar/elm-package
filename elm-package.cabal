@@ -40,8 +40,6 @@ Library
         Elm.Package.Paths,
         Elm.Package.Solution,
         GitHub
-
-    other-modules:
         Catalog,
         CommandLine.Helpers,
         Diff.Magnitude,
